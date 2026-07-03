@@ -1,0 +1,3 @@
+00001 John Smith         040020.50
+00002 Mary Johnson       038018.75
+00003 David Kumar        045022.00

@@ -1,0 +1,3 @@
+   ID: 00001   NAME: John Smith         0  HOURS: 400  RATE: 20.50  PAY: 0079400
+   ID: 00002   NAME: Mary Johnson       0  HOURS: 380  RATE: 18.75  PAY: 0067925
+   ID: 00003   NAME: David Kumar        0  HOURS: 450  RATE: 22.00  PAY: 0098100
